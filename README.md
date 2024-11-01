@@ -4,9 +4,11 @@ Just a table of Leetcode questions and numbers. Goes up to 1857.
 ---
 
 
+
 | #    | Title                                                                         |
 | ---- | ----------------------------------------------------------------------------- |
 | 1    |Two Sum                                                                        |
+| 2    |Add Two Numbers                                                                |
 | 3    |Longest Substring Without Repeating Characters                                 |
 | 4    |Median of Two Sorted Arrays                                                    |
 | 5    |Longest Palindromic Substring                                                  |
@@ -1862,3 +1864,4 @@ Just a table of Leetcode questions and numbers. Goes up to 1857.
 | 1855 |Maximum Distance Between a Pair of Values                                      |
 | 1856 |Maximum Subarray Min-Product                                                   |
 | 1857 |Largest Color Value in a Directed Graph                                        |
+
