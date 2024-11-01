@@ -1,5 +1,5 @@
 # Leetcode-Problem-Titles-and-Numbers
-Just a table of Leetcode questions and numbers
+Just a table of Leetcode questions and numbers. Goes up to 1857. 
 
 ---
 
